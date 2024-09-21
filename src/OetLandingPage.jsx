@@ -332,7 +332,7 @@ export default function OetLandingPage() {
 
         <div className="flex flex-wrap justify-center gap-5 mx-5">
           <img
-            src={"/src/assets/doc1.png"}
+            src={"/doc1.png"}
             alt="Doctor"
             className=" w-full max-w-xs"
           />
