@@ -163,7 +163,7 @@ export default function OetLandingPage() {
         </h2>
 
         {/* Timeline container */}
-        <div className="relative max-w-4xl mx-auto">
+        <div className="relative max-w-4xl mx-3 sm:mx-auto">
           {/* Vertical line for the timeline */}
           <div className="absolute w-1 bg-gray-300 h-full left-1/2 transform -translate-x-1/2"></div>
 
