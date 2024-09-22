@@ -478,7 +478,7 @@ export default function OetLandingPage() {
 
       {/* Modal with feedback form */}
       {isFormOpen && (
-        <div className="fixed inset-0 bg-gray-900 bg-opacity-50 flex justify-center items-center z-50">
+        <div className="fixed inset-0 bg-gray-900 bg-opacity-50 flex justify-center items-center z-50 mx-5">
           <div className="bg-white p-8 rounded-lg shadow-lg max-w-lg w-full relative">
             {/* Close button */}
             <button

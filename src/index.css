@@ -3,4 +3,13 @@
 @tailwind utilities;
 
 
-
+/* For modern browsers */
+::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+  }
+  
+  html, body {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+  }
+  
